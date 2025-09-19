@@ -1,0 +1,8 @@
+search_results.json
+video_data.json
+
+demo
+
+# Ignore Python bytecode caches in all folders
+__pycache__/
+**/__pycache__/
